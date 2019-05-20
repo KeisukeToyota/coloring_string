@@ -1,5 +1,6 @@
-# coloring string
-出力文字に色を付けます。
+===
+coloring string
+===
 
 ```
 import coloring_string as cs
